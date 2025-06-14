@@ -1,0 +1,17556 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$HANDSEED
+  5
+     2BC
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+1
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+VPORT
+  5
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 12
+-679.869074385
+ 22
+-2066.88974136
+ 40
+3680.51052054
+ 41
+1.32483327983
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+3
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+LTYPE
+  5
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  0
+LTYPE
+  5
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+6
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LAYER
+  5
+7
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+390
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+8
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+STYLE
+  5
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 41
+1.0
+  3
+txt
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+A
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+B
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+C
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+APPID
+  5
+D
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+E
+100
+AcDbSymbolTable
+ 70
+     0
+100
+AcDbDimStyleTable
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+F
+100
+AcDbSymbolTable
+ 70
+70
+  0
+BLOCK_RECORD
+  5
+10
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+  0
+BLOCK_RECORD
+  5
+11
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+  0
+BLOCK_RECORD
+  5
+12
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL
+  0
+BLOCK_RECORD
+  5
+13
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Bottom
+  0
+BLOCK_RECORD
+  5
+14
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Bottom1
+  0
+BLOCK_RECORD
+  5
+15
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Top
+  0
+BLOCK_RECORD
+  5
+16
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Top1
+  0
+BLOCK_RECORD
+  5
+17
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Right Side
+  0
+BLOCK_RECORD
+  5
+18
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Right Side1
+  0
+BLOCK_RECORD
+  5
+19
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Back
+  0
+BLOCK_RECORD
+  5
+1A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Back1
+  0
+BLOCK_RECORD
+  5
+1B
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Left Side
+  0
+BLOCK_RECORD
+  5
+1C
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Left Side1
+  0
+BLOCK_RECORD
+  5
+1D
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Door std (Double) [1]
+  0
+BLOCK_RECORD
+  5
+1E
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Door std (Double) [1] (1)
+  0
+BLOCK_RECORD
+  5
+1F
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Door std (Double) [1] (2)
+  0
+BLOCK_RECORD
+  5
+20
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Mobile Shelf [1]
+  0
+BLOCK_RECORD
+  5
+21
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WL.Mobile Shelf [1]1
+  0
+BLOCK_RECORD
+  5
+22
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS
+  0
+BLOCK_RECORD
+  5
+23
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS.Bottom
+  0
+BLOCK_RECORD
+  5
+24
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS.Bottom1
+  0
+BLOCK_RECORD
+  5
+25
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS.Top
+  0
+BLOCK_RECORD
+  5
+26
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS.Top1
+  0
+BLOCK_RECORD
+  5
+27
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS.Right Side
+  0
+BLOCK_RECORD
+  5
+28
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS.Right Side1
+  0
+BLOCK_RECORD
+  5
+29
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS.Back
+  0
+BLOCK_RECORD
+  5
+2A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS.Back1
+  0
+BLOCK_RECORD
+  5
+2B
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS.Left Side
+  0
+BLOCK_RECORD
+  5
+2C
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS.Left Side1
+  0
+BLOCK_RECORD
+  5
+2D
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS.Door std (Single) [1]
+  0
+BLOCK_RECORD
+  5
+2E
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS.Door std (Single) [1]1
+  0
+BLOCK_RECORD
+  5
+2F
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS.Mobile Shelf [1]
+  0
+BLOCK_RECORD
+  5
+30
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.WS.Mobile Shelf [1]1
+  0
+BLOCK_RECORD
+  5
+31
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS
+  0
+BLOCK_RECORD
+  5
+32
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.Bottom
+  0
+BLOCK_RECORD
+  5
+33
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.Bottom1
+  0
+BLOCK_RECORD
+  5
+34
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.Back 2
+  0
+BLOCK_RECORD
+  5
+35
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.Back 3
+  0
+BLOCK_RECORD
+  5
+36
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.Side 1
+  0
+BLOCK_RECORD
+  5
+37
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.Side 2
+  0
+BLOCK_RECORD
+  5
+38
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.Back 1
+  0
+BLOCK_RECORD
+  5
+39
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.Back 4
+  0
+BLOCK_RECORD
+  5
+3A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.L Slide
+  0
+BLOCK_RECORD
+  5
+3B
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.L Slide1
+  0
+BLOCK_RECORD
+  5
+3C
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.Side [1]
+  0
+BLOCK_RECORD
+  5
+3D
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.Side [1]1
+  0
+BLOCK_RECORD
+  5
+3E
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.Door std (Single) [1]
+  0
+BLOCK_RECORD
+  5
+3F
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.Door std (Single) [1]1
+  0
+BLOCK_RECORD
+  5
+40
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.Mobile Shelf [1]
+  0
+BLOCK_RECORD
+  5
+41
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BS.Mobile Shelf [1]1
+  0
+BLOCK_RECORD
+  5
+42
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BL
+  0
+BLOCK_RECORD
+  5
+43
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BL.Bottom
+  0
+BLOCK_RECORD
+  5
+44
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BL.Bottom1
+  0
+BLOCK_RECORD
+  5
+45
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BL.Right Side
+  0
+BLOCK_RECORD
+  5
+46
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BL.Right Side1
+  0
+BLOCK_RECORD
+  5
+47
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BL.Back
+  0
+BLOCK_RECORD
+  5
+48
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BL.Back1
+  0
+BLOCK_RECORD
+  5
+49
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BL.Left Side
+  0
+BLOCK_RECORD
+  5
+4A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BL.Left Side1
+  0
+BLOCK_RECORD
+  5
+4B
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BL.Door std (Double) [1]
+  0
+BLOCK_RECORD
+  5
+4C
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BL.Door std (Double) [1] (1)
+  0
+BLOCK_RECORD
+  5
+4D
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BL.Door std (Double) [1] (2)
+  0
+BLOCK_RECORD
+  5
+4E
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BL.Mobile Shelf [1]
+  0
+BLOCK_RECORD
+  5
+4F
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.BL.Mobile Shelf [1]1
+  0
+BLOCK_RECORD
+  5
+50
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.Cover[1]
+  0
+BLOCK_RECORD
+  5
+51
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.Cover[1].Cover[1]
+  0
+BLOCK_RECORD
+  5
+52
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.Cover[1].Cover[1]1
+  0
+BLOCK_RECORD
+  5
+53
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.Cover[2]
+  0
+BLOCK_RECORD
+  5
+54
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.Cover[2].Cover[2]
+  0
+BLOCK_RECORD
+  5
+55
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Hall Way.Cover[2].Cover[2]1
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+56
+100
+AcDbEntity
+100
+AcDbBlockBegin
+  2
+*Model_Space
+  0
+ENDBLK
+  5
+57
+100
+AcDbEntity
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+58
+100
+AcDbEntity
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+  0
+ENDBLK
+  5
+59
+100
+AcDbEntity
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+5A
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+Hall Way.WL
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+5B
+100
+AcDbEntity
+  8
+Hall Way.WL.Bottom
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Bottom
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+5C
+100
+AcDbEntity
+  8
+Hall Way.WL.Top
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Top
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+5D
+100
+AcDbEntity
+  8
+Hall Way.WL.Right Side
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Right Side
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+5E
+100
+AcDbEntity
+  8
+Hall Way.WL.Back
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Back
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+5F
+100
+AcDbEntity
+  8
+Hall Way.WL.Left Side
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Left Side
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+60
+100
+AcDbEntity
+  8
+Hall Way.WL.Door std (Double) [1]
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Door std (Double) [1]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+61
+100
+AcDbEntity
+  8
+Hall Way.WL.Mobile Shelf [1]
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Mobile Shelf [1]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+62
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+63
+100
+AcDbEntity
+  8
+Hall Way.WL.Bottom
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Bottom
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+64
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Bottom1
+ 10
+16
+ 20
+16
+ 30
+116
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+65
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+65.9518666706
+ 20
+332
+ 30
+116
+ 40
+1.56007455537
+  0
+CIRCLE
+  5
+66
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+349.285200004
+ 20
+332
+ 30
+116
+ 40
+1.56007455537
+  0
+CIRCLE
+  5
+67
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+632.618533337
+ 20
+332
+ 30
+116
+ 40
+1.56007455537
+  0
+CIRCLE
+  5
+68
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+915.951866671
+ 20
+332
+ 30
+116
+ 40
+1.56007455537
+  0
+ENDBLK
+  5
+69
+100
+AcDbEntity
+  8
+Hall Way.WL.Bottom
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+6A
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Bottom1
+ 70
+     0
+ 10
+16
+ 20
+16
+ 30
+116
+  0
+3DFACE
+  5
+6B
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+116
+ 11
+16
+ 21
+340
+ 31
+116
+ 12
+966
+ 22
+340
+ 32
+116
+ 13
+966
+ 23
+16
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+6C
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+132
+ 11
+16
+ 21
+340
+ 31
+132
+ 12
+966
+ 22
+340
+ 32
+132
+ 13
+966
+ 23
+16
+ 33
+132
+ 70
+0
+  0
+3DFACE
+  5
+6D
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+132
+ 11
+16
+ 21
+340
+ 31
+132
+ 12
+16
+ 22
+340
+ 32
+116
+ 13
+16
+ 23
+16
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+6E
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+340
+ 30
+132
+ 11
+966
+ 21
+340
+ 31
+132
+ 12
+966
+ 22
+340
+ 32
+116
+ 13
+16
+ 23
+340
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+6F
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+340
+ 30
+132
+ 11
+966
+ 21
+16
+ 31
+132
+ 12
+966
+ 22
+16
+ 32
+116
+ 13
+966
+ 23
+340
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+70
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+16
+ 30
+132
+ 11
+16
+ 21
+16
+ 31
+132
+ 12
+16
+ 22
+16
+ 32
+116
+ 13
+966
+ 23
+16
+ 33
+116
+ 70
+0
+  0
+ENDBLK
+  5
+71
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+72
+100
+AcDbEntity
+  8
+Hall Way.WL.Top
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Top
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+73
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Top1
+ 10
+966
+ 20
+16
+ 30
+884
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+74
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-65.9518666706
+ 20
+332
+ 30
+-884
+ 40
+1.56007455537
+210
+0
+220
+0
+230
+-1
+  0
+CIRCLE
+  5
+75
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-349.285200004
+ 20
+332
+ 30
+-884
+ 40
+1.56007455537
+210
+0
+220
+0
+230
+-1
+  0
+CIRCLE
+  5
+76
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-632.618533337
+ 20
+332
+ 30
+-884
+ 40
+1.56007455537
+210
+0
+220
+0
+230
+-1
+  0
+CIRCLE
+  5
+77
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-915.951866671
+ 20
+332
+ 30
+-884
+ 40
+1.56007455537
+210
+0
+220
+0
+230
+-1
+  0
+ENDBLK
+  5
+78
+100
+AcDbEntity
+  8
+Hall Way.WL.Top
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+79
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Top1
+ 70
+     0
+ 10
+966
+ 20
+16
+ 30
+884
+  0
+3DFACE
+  5
+7A
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+16
+ 30
+884
+ 11
+966
+ 21
+340
+ 31
+884
+ 12
+16
+ 22
+340
+ 32
+884
+ 13
+16
+ 23
+16
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+7B
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+16
+ 30
+868
+ 11
+966
+ 21
+340
+ 31
+868
+ 12
+16
+ 22
+340
+ 32
+868
+ 13
+16
+ 23
+16
+ 33
+868
+ 70
+0
+  0
+3DFACE
+  5
+7C
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+16
+ 30
+868
+ 11
+966
+ 21
+340
+ 31
+868
+ 12
+966
+ 22
+340
+ 32
+884
+ 13
+966
+ 23
+16
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+7D
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+340
+ 30
+868
+ 11
+16
+ 21
+340
+ 31
+868
+ 12
+16
+ 22
+340
+ 32
+884
+ 13
+966
+ 23
+340
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+7E
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+340
+ 30
+868
+ 11
+16
+ 21
+16
+ 31
+868
+ 12
+16
+ 22
+16
+ 32
+884
+ 13
+16
+ 23
+340
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+7F
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+868
+ 11
+966
+ 21
+16
+ 31
+868
+ 12
+966
+ 22
+16
+ 32
+884
+ 13
+16
+ 23
+16
+ 33
+884
+ 70
+0
+  0
+ENDBLK
+  5
+80
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+81
+100
+AcDbEntity
+  8
+Hall Way.WL.Right Side
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Right Side
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+82
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Right Side1
+ 10
+982
+ 20
+16
+ 30
+116
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+83
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-332
+ 20
+834.048133329
+ 30
+-982
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+84
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-332
+ 20
+508.048133329
+ 30
+-982
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+85
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-332
+ 20
+182.048133329
+ 30
+-982
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+86
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-65.9518666706
+ 20
+124
+ 30
+-982
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+87
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-289.951866671
+ 20
+124
+ 30
+-982
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+88
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-65.9518666706
+ 20
+876
+ 30
+-982
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+89
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-289.951866671
+ 20
+876
+ 30
+-982
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+8A
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+53
+ 20
+750.080222216
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+8B
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+53
+ 20
+232.080222216
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+8C
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+53
+ 20
+782.080222216
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+8D
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+53
+ 20
+200.080222216
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+8E
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+55.9197777844
+ 20
+492
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+8F
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+286.919777784
+ 20
+492
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+90
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+55.9197777844
+ 20
+432
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+91
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+286.919777784
+ 20
+432
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+92
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+55.9197777844
+ 20
+552
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+93
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+286.919777784
+ 20
+552
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+ENDBLK
+  5
+94
+100
+AcDbEntity
+  8
+Hall Way.WL.Right Side
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+95
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Right Side1
+ 70
+     0
+ 10
+982
+ 20
+16
+ 30
+116
+  0
+3DFACE
+  5
+96
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+982
+ 20
+16
+ 30
+116
+ 11
+982
+ 21
+340
+ 31
+116
+ 12
+982
+ 22
+340
+ 32
+884
+ 13
+982
+ 23
+16
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+97
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+16
+ 30
+116
+ 11
+966
+ 21
+340
+ 31
+116
+ 12
+966
+ 22
+340
+ 32
+884
+ 13
+966
+ 23
+16
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+98
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+16
+ 30
+116
+ 11
+966
+ 21
+340
+ 31
+116
+ 12
+982
+ 22
+340
+ 32
+116
+ 13
+982
+ 23
+16
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+99
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+340
+ 30
+116
+ 11
+966
+ 21
+340
+ 31
+884
+ 12
+982
+ 22
+340
+ 32
+884
+ 13
+982
+ 23
+340
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+9A
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+340
+ 30
+884
+ 11
+966
+ 21
+16
+ 31
+884
+ 12
+982
+ 22
+16
+ 32
+884
+ 13
+982
+ 23
+340
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+9B
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+16
+ 30
+884
+ 11
+966
+ 21
+16
+ 31
+116
+ 12
+982
+ 22
+16
+ 32
+116
+ 13
+982
+ 23
+16
+ 33
+884
+ 70
+0
+  0
+ENDBLK
+  5
+9C
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+9D
+100
+AcDbEntity
+  8
+Hall Way.WL.Back
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Back
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+9E
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Back1
+ 10
+16
+ 20
+340
+ 30
+868
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+9F
+100
+AcDbEntity
+  8
+Hall Way.WL.Back
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+A0
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Back1
+ 70
+     0
+ 10
+16
+ 20
+340
+ 30
+868
+  0
+3DFACE
+  5
+A1
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+340
+ 30
+868
+ 11
+966
+ 21
+340
+ 31
+868
+ 12
+966
+ 22
+340
+ 32
+132
+ 13
+16
+ 23
+340
+ 33
+132
+ 70
+0
+  0
+3DFACE
+  5
+A2
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+324
+ 30
+868
+ 11
+966
+ 21
+324
+ 31
+868
+ 12
+966
+ 22
+324
+ 32
+132
+ 13
+16
+ 23
+324
+ 33
+132
+ 70
+0
+  0
+3DFACE
+  5
+A3
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+324
+ 30
+868
+ 11
+966
+ 21
+324
+ 31
+868
+ 12
+966
+ 22
+340
+ 32
+868
+ 13
+16
+ 23
+340
+ 33
+868
+ 70
+0
+  0
+3DFACE
+  5
+A4
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+324
+ 30
+868
+ 11
+966
+ 21
+324
+ 31
+132
+ 12
+966
+ 22
+340
+ 32
+132
+ 13
+966
+ 23
+340
+ 33
+868
+ 70
+0
+  0
+3DFACE
+  5
+A5
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+324
+ 30
+132
+ 11
+16
+ 21
+324
+ 31
+132
+ 12
+16
+ 22
+340
+ 32
+132
+ 13
+966
+ 23
+340
+ 33
+132
+ 70
+0
+  0
+3DFACE
+  5
+A6
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+324
+ 30
+132
+ 11
+16
+ 21
+324
+ 31
+868
+ 12
+16
+ 22
+340
+ 32
+868
+ 13
+16
+ 23
+340
+ 33
+132
+ 70
+0
+  0
+ENDBLK
+  5
+A7
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+A8
+100
+AcDbEntity
+  8
+Hall Way.WL.Left Side
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Left Side
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+A9
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Left Side1
+ 10
+0
+ 20
+16
+ 30
+884
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+AA
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+332
+ 20
+834.048133329
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+AB
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+332
+ 20
+508.048133329
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+AC
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+332
+ 20
+182.048133329
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+AD
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+65.9518666706
+ 20
+124
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+AE
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+289.951866671
+ 20
+124
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+AF
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+65.9518666706
+ 20
+876
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+B0
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+289.951866671
+ 20
+876
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+B1
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-53
+ 20
+750.080222216
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+B2
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-53
+ 20
+232.080222216
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+B3
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-53
+ 20
+782.080222216
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+B4
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-53
+ 20
+200.080222216
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+B5
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-55.9197777844
+ 20
+492
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+B6
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-286.919777784
+ 20
+492
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+B7
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-55.9197777844
+ 20
+432
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+B8
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-286.919777784
+ 20
+432
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+B9
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-55.9197777844
+ 20
+552
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+BA
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-286.919777784
+ 20
+552
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+ENDBLK
+  5
+BB
+100
+AcDbEntity
+  8
+Hall Way.WL.Left Side
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+BC
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Left Side1
+ 70
+     0
+ 10
+0
+ 20
+16
+ 30
+884
+  0
+3DFACE
+  5
+BD
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+0
+ 20
+16
+ 30
+884
+ 11
+0
+ 21
+340
+ 31
+884
+ 12
+0
+ 22
+340
+ 32
+116
+ 13
+0
+ 23
+16
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+BE
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+884
+ 11
+16
+ 21
+340
+ 31
+884
+ 12
+16
+ 22
+340
+ 32
+116
+ 13
+16
+ 23
+16
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+BF
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+884
+ 11
+16
+ 21
+340
+ 31
+884
+ 12
+0
+ 22
+340
+ 32
+884
+ 13
+0
+ 23
+16
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+C0
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+340
+ 30
+884
+ 11
+16
+ 21
+340
+ 31
+116
+ 12
+0
+ 22
+340
+ 32
+116
+ 13
+0
+ 23
+340
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+C1
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+340
+ 30
+116
+ 11
+16
+ 21
+16
+ 31
+116
+ 12
+0
+ 22
+16
+ 32
+116
+ 13
+0
+ 23
+340
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+C2
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+116
+ 11
+16
+ 21
+16
+ 31
+884
+ 12
+0
+ 22
+16
+ 32
+884
+ 13
+0
+ 23
+16
+ 33
+116
+ 70
+0
+  0
+ENDBLK
+  5
+C3
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+C4
+100
+AcDbEntity
+  8
+Hall Way.WL.Door std (Double) [1]
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Door std (Double) [1]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+C5
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Door std (Double) [1] (1)
+ 10
+2
+ 20
+0
+ 30
+1146
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+C6
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Door std (Double) [1] (2)
+ 10
+492
+ 20
+0
+ 30
+1146
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+C7
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+33
+ 20
+743.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+C8
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+33
+ 20
+238.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+C9
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+33
+ 20
+788.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+CA
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+33
+ 20
+193.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+CB
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+14
+ 10
+23.5
+ 20
+766.098834167
+ 30
+-16
+ 40
+17.6235081147
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+CC
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+14
+ 10
+23.5
+ 20
+216.098834167
+ 30
+-16
+ 40
+17.6235081147
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+CD
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+949
+ 20
+743.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+CE
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+949
+ 20
+238.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+CF
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+949
+ 20
+788.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+D0
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+949
+ 20
+193.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+D1
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+14
+ 10
+958.5
+ 20
+766.098834167
+ 30
+-16
+ 40
+17.6235081147
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+D2
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+14
+ 10
+958.5
+ 20
+216.098834167
+ 30
+-16
+ 40
+17.6235081147
+210
+0
+220
+-1
+230
+0
+  0
+ENDBLK
+  5
+D3
+100
+AcDbEntity
+  8
+Hall Way.WL.Door std (Double) [1]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+D4
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Door std (Double) [1] (1)
+ 70
+     0
+ 10
+2
+ 20
+0
+ 30
+1146
+  0
+3DFACE
+  5
+D5
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+2
+ 20
+0
+ 30
+1146
+ 11
+490
+ 21
+0
+ 31
+1146
+ 12
+490
+ 22
+0
+ 32
+0
+ 13
+2
+ 23
+0
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+D6
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+2
+ 20
+16
+ 30
+1146
+ 11
+2
+ 21
+16
+ 31
+0
+ 12
+490
+ 22
+16
+ 32
+0
+ 13
+490
+ 23
+16
+ 33
+1146
+ 70
+0
+  0
+3DFACE
+  5
+D7
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+490
+ 20
+0
+ 30
+1146
+ 11
+2
+ 21
+0
+ 31
+1146
+ 12
+2
+ 22
+16
+ 32
+1146
+ 13
+490
+ 23
+16
+ 33
+1146
+ 70
+0
+  0
+3DFACE
+  5
+D8
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+490
+ 20
+0
+ 30
+0
+ 11
+490
+ 21
+16
+ 31
+0
+ 12
+490
+ 22
+16
+ 32
+1146
+ 13
+490
+ 23
+0
+ 33
+1146
+ 70
+0
+  0
+3DFACE
+  5
+D9
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+2
+ 20
+16
+ 30
+0
+ 11
+2
+ 21
+0
+ 31
+0
+ 12
+490
+ 22
+0
+ 32
+0
+ 13
+490
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+DA
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+2
+ 20
+16
+ 30
+1146
+ 11
+2
+ 21
+0
+ 31
+1146
+ 12
+2
+ 22
+0
+ 32
+0
+ 13
+2
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+ENDBLK
+  5
+DB
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+DC
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Door std (Double) [1] (2)
+ 70
+     0
+ 10
+492
+ 20
+0
+ 30
+1146
+  0
+3DFACE
+  5
+DD
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+492
+ 20
+0
+ 30
+1146
+ 11
+980
+ 21
+0
+ 31
+1146
+ 12
+980
+ 22
+0
+ 32
+0
+ 13
+492
+ 23
+0
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+DE
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+492
+ 20
+16
+ 30
+0
+ 11
+980
+ 21
+16
+ 31
+0
+ 12
+980
+ 22
+16
+ 32
+1146
+ 13
+492
+ 23
+16
+ 33
+1146
+ 70
+0
+  0
+3DFACE
+  5
+DF
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+980
+ 20
+16
+ 30
+1146
+ 11
+980
+ 21
+0
+ 31
+1146
+ 12
+492
+ 22
+0
+ 32
+1146
+ 13
+492
+ 23
+16
+ 33
+1146
+ 70
+0
+  0
+3DFACE
+  5
+E0
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+980
+ 20
+16
+ 30
+0
+ 11
+980
+ 21
+0
+ 31
+0
+ 12
+980
+ 22
+0
+ 32
+1146
+ 13
+980
+ 23
+16
+ 33
+1146
+ 70
+0
+  0
+3DFACE
+  5
+E1
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+492
+ 20
+0
+ 30
+0
+ 11
+980
+ 21
+0
+ 31
+0
+ 12
+980
+ 22
+16
+ 32
+0
+ 13
+492
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+E2
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+492
+ 20
+0
+ 30
+1146
+ 11
+492
+ 21
+16
+ 31
+1146
+ 12
+492
+ 22
+16
+ 32
+0
+ 13
+492
+ 23
+0
+ 33
+0
+ 70
+0
+  0
+ENDBLK
+  5
+E3
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+E4
+100
+AcDbEntity
+  8
+Hall Way.WL.Mobile Shelf [1]
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Mobile Shelf [1]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+E5
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.WL.Mobile Shelf [1]1
+ 10
+16
+ 20
+324
+ 30
+492
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+E6
+100
+AcDbEntity
+  8
+Hall Way.WL.Mobile Shelf [1]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+E7
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.WL.Mobile Shelf [1]1
+ 70
+     0
+ 10
+16
+ 20
+324
+ 30
+492
+  0
+3DFACE
+  5
+E8
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+324
+ 30
+492
+ 11
+16
+ 21
+19
+ 31
+492
+ 12
+966
+ 22
+19
+ 32
+492
+ 13
+966
+ 23
+324
+ 33
+492
+ 70
+0
+  0
+3DFACE
+  5
+E9
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+324
+ 30
+508
+ 11
+16
+ 21
+19
+ 31
+508
+ 12
+966
+ 22
+19
+ 32
+508
+ 13
+966
+ 23
+324
+ 33
+508
+ 70
+0
+  0
+3DFACE
+  5
+EA
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+324
+ 30
+492
+ 11
+16
+ 21
+324
+ 31
+508
+ 12
+16
+ 22
+19
+ 32
+508
+ 13
+16
+ 23
+19
+ 33
+492
+ 70
+0
+  0
+3DFACE
+  5
+EB
+100
+AcDbEntity
+  8
+edge-010
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+19
+ 30
+492
+ 11
+16
+ 21
+19
+ 31
+508
+ 12
+966
+ 22
+19
+ 32
+508
+ 13
+966
+ 23
+19
+ 33
+492
+ 70
+0
+  0
+3DFACE
+  5
+EC
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+19
+ 30
+492
+ 11
+966
+ 21
+19
+ 31
+508
+ 12
+966
+ 22
+324
+ 32
+508
+ 13
+966
+ 23
+324
+ 33
+492
+ 70
+0
+  0
+3DFACE
+  5
+ED
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+324
+ 30
+492
+ 11
+966
+ 21
+324
+ 31
+508
+ 12
+16
+ 22
+324
+ 32
+508
+ 13
+16
+ 23
+324
+ 33
+492
+ 70
+0
+  0
+ENDBLK
+  5
+EE
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+EF
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+Hall Way.WS
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+F0
+100
+AcDbEntity
+  8
+Hall Way.WS.Bottom
+100
+AcDbBlockReference
+  2
+Hall Way.WS.Bottom
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+F1
+100
+AcDbEntity
+  8
+Hall Way.WS.Top
+100
+AcDbBlockReference
+  2
+Hall Way.WS.Top
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+F2
+100
+AcDbEntity
+  8
+Hall Way.WS.Right Side
+100
+AcDbBlockReference
+  2
+Hall Way.WS.Right Side
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+F3
+100
+AcDbEntity
+  8
+Hall Way.WS.Back
+100
+AcDbBlockReference
+  2
+Hall Way.WS.Back
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+F4
+100
+AcDbEntity
+  8
+Hall Way.WS.Left Side
+100
+AcDbBlockReference
+  2
+Hall Way.WS.Left Side
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+F5
+100
+AcDbEntity
+  8
+Hall Way.WS.Door std (Single) [1]
+100
+AcDbBlockReference
+  2
+Hall Way.WS.Door std (Single) [1]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+F6
+100
+AcDbEntity
+  8
+Hall Way.WS.Mobile Shelf [1]
+100
+AcDbBlockReference
+  2
+Hall Way.WS.Mobile Shelf [1]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+F7
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+F8
+100
+AcDbEntity
+  8
+Hall Way.WS.Bottom
+100
+AcDbBlockBegin
+  2
+Hall Way.WS.Bottom
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+F9
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.WS.Bottom1
+ 10
+16
+ 20
+16
+ 30
+116
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+FA
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+65.9518666706
+ 20
+332
+ 30
+116
+ 40
+1.56007455537
+  0
+CIRCLE
+  5
+FB
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+194.951866671
+ 20
+332
+ 30
+116
+ 40
+1.56007455537
+  0
+ENDBLK
+  5
+FC
+100
+AcDbEntity
+  8
+Hall Way.WS.Bottom
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+FD
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.WS.Bottom1
+ 70
+     0
+ 10
+16
+ 20
+16
+ 30
+116
+  0
+3DFACE
+  5
+FE
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+116
+ 11
+16
+ 21
+340
+ 31
+116
+ 12
+245
+ 22
+340
+ 32
+116
+ 13
+245
+ 23
+16
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+FF
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+132
+ 11
+16
+ 21
+340
+ 31
+132
+ 12
+245
+ 22
+340
+ 32
+132
+ 13
+245
+ 23
+16
+ 33
+132
+ 70
+0
+  0
+3DFACE
+  5
+100
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+132
+ 11
+16
+ 21
+340
+ 31
+132
+ 12
+16
+ 22
+340
+ 32
+116
+ 13
+16
+ 23
+16
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+101
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+340
+ 30
+132
+ 11
+245
+ 21
+340
+ 31
+132
+ 12
+245
+ 22
+340
+ 32
+116
+ 13
+16
+ 23
+340
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+102
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+340
+ 30
+132
+ 11
+245
+ 21
+16
+ 31
+132
+ 12
+245
+ 22
+16
+ 32
+116
+ 13
+245
+ 23
+340
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+103
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+16
+ 30
+132
+ 11
+16
+ 21
+16
+ 31
+132
+ 12
+16
+ 22
+16
+ 32
+116
+ 13
+245
+ 23
+16
+ 33
+116
+ 70
+0
+  0
+ENDBLK
+  5
+104
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+105
+100
+AcDbEntity
+  8
+Hall Way.WS.Top
+100
+AcDbBlockBegin
+  2
+Hall Way.WS.Top
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+106
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.WS.Top1
+ 10
+245
+ 20
+16
+ 30
+884
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+107
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-65.9518666706
+ 20
+332
+ 30
+-884
+ 40
+1.56007455537
+210
+0
+220
+0
+230
+-1
+  0
+CIRCLE
+  5
+108
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-194.951866671
+ 20
+332
+ 30
+-884
+ 40
+1.56007455537
+210
+0
+220
+0
+230
+-1
+  0
+ENDBLK
+  5
+109
+100
+AcDbEntity
+  8
+Hall Way.WS.Top
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+10A
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.WS.Top1
+ 70
+     0
+ 10
+245
+ 20
+16
+ 30
+884
+  0
+3DFACE
+  5
+10B
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+16
+ 30
+884
+ 11
+245
+ 21
+340
+ 31
+884
+ 12
+16
+ 22
+340
+ 32
+884
+ 13
+16
+ 23
+16
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+10C
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+16
+ 30
+868
+ 11
+245
+ 21
+340
+ 31
+868
+ 12
+16
+ 22
+340
+ 32
+868
+ 13
+16
+ 23
+16
+ 33
+868
+ 70
+0
+  0
+3DFACE
+  5
+10D
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+16
+ 30
+868
+ 11
+245
+ 21
+340
+ 31
+868
+ 12
+245
+ 22
+340
+ 32
+884
+ 13
+245
+ 23
+16
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+10E
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+340
+ 30
+868
+ 11
+16
+ 21
+340
+ 31
+868
+ 12
+16
+ 22
+340
+ 32
+884
+ 13
+245
+ 23
+340
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+10F
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+340
+ 30
+868
+ 11
+16
+ 21
+16
+ 31
+868
+ 12
+16
+ 22
+16
+ 32
+884
+ 13
+16
+ 23
+340
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+110
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+868
+ 11
+245
+ 21
+16
+ 31
+868
+ 12
+245
+ 22
+16
+ 32
+884
+ 13
+16
+ 23
+16
+ 33
+884
+ 70
+0
+  0
+ENDBLK
+  5
+111
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+112
+100
+AcDbEntity
+  8
+Hall Way.WS.Right Side
+100
+AcDbBlockBegin
+  2
+Hall Way.WS.Right Side
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+113
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.WS.Right Side1
+ 10
+261
+ 20
+16
+ 30
+116
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+114
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-332
+ 20
+834.048133329
+ 30
+-261
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+115
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-332
+ 20
+508.048133329
+ 30
+-261
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+116
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-332
+ 20
+182.048133329
+ 30
+-261
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+117
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-65.9518666706
+ 20
+124
+ 30
+-261
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+118
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-289.951866671
+ 20
+124
+ 30
+-261
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+119
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-65.9518666706
+ 20
+876
+ 30
+-261
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+11A
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-289.951866671
+ 20
+876
+ 30
+-261
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+11B
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+55.9197777844
+ 20
+492
+ 30
+245
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+11C
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+286.919777784
+ 20
+492
+ 30
+245
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+11D
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+55.9197777844
+ 20
+432
+ 30
+245
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+11E
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+286.919777784
+ 20
+432
+ 30
+245
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+11F
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+55.9197777844
+ 20
+552
+ 30
+245
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+120
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+286.919777784
+ 20
+552
+ 30
+245
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+ENDBLK
+  5
+121
+100
+AcDbEntity
+  8
+Hall Way.WS.Right Side
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+122
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.WS.Right Side1
+ 70
+     0
+ 10
+261
+ 20
+16
+ 30
+116
+  0
+3DFACE
+  5
+123
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+261
+ 20
+16
+ 30
+116
+ 11
+261
+ 21
+340
+ 31
+116
+ 12
+261
+ 22
+340
+ 32
+884
+ 13
+261
+ 23
+16
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+124
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+16
+ 30
+116
+ 11
+245
+ 21
+340
+ 31
+116
+ 12
+245
+ 22
+340
+ 32
+884
+ 13
+245
+ 23
+16
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+125
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+16
+ 30
+116
+ 11
+245
+ 21
+340
+ 31
+116
+ 12
+261
+ 22
+340
+ 32
+116
+ 13
+261
+ 23
+16
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+126
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+340
+ 30
+116
+ 11
+245
+ 21
+340
+ 31
+884
+ 12
+261
+ 22
+340
+ 32
+884
+ 13
+261
+ 23
+340
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+127
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+340
+ 30
+884
+ 11
+245
+ 21
+16
+ 31
+884
+ 12
+261
+ 22
+16
+ 32
+884
+ 13
+261
+ 23
+340
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+128
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+16
+ 30
+884
+ 11
+245
+ 21
+16
+ 31
+116
+ 12
+261
+ 22
+16
+ 32
+116
+ 13
+261
+ 23
+16
+ 33
+884
+ 70
+0
+  0
+ENDBLK
+  5
+129
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+12A
+100
+AcDbEntity
+  8
+Hall Way.WS.Back
+100
+AcDbBlockBegin
+  2
+Hall Way.WS.Back
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+12B
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.WS.Back1
+ 10
+16
+ 20
+340
+ 30
+868
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+12C
+100
+AcDbEntity
+  8
+Hall Way.WS.Back
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+12D
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.WS.Back1
+ 70
+     0
+ 10
+16
+ 20
+340
+ 30
+868
+  0
+3DFACE
+  5
+12E
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+340
+ 30
+868
+ 11
+245
+ 21
+340
+ 31
+868
+ 12
+245
+ 22
+340
+ 32
+132
+ 13
+16
+ 23
+340
+ 33
+132
+ 70
+0
+  0
+3DFACE
+  5
+12F
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+324
+ 30
+868
+ 11
+245
+ 21
+324
+ 31
+868
+ 12
+245
+ 22
+324
+ 32
+132
+ 13
+16
+ 23
+324
+ 33
+132
+ 70
+0
+  0
+3DFACE
+  5
+130
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+324
+ 30
+868
+ 11
+245
+ 21
+324
+ 31
+868
+ 12
+245
+ 22
+340
+ 32
+868
+ 13
+16
+ 23
+340
+ 33
+868
+ 70
+0
+  0
+3DFACE
+  5
+131
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+324
+ 30
+868
+ 11
+245
+ 21
+324
+ 31
+132
+ 12
+245
+ 22
+340
+ 32
+132
+ 13
+245
+ 23
+340
+ 33
+868
+ 70
+0
+  0
+3DFACE
+  5
+132
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+324
+ 30
+132
+ 11
+16
+ 21
+324
+ 31
+132
+ 12
+16
+ 22
+340
+ 32
+132
+ 13
+245
+ 23
+340
+ 33
+132
+ 70
+0
+  0
+3DFACE
+  5
+133
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+324
+ 30
+132
+ 11
+16
+ 21
+324
+ 31
+868
+ 12
+16
+ 22
+340
+ 32
+868
+ 13
+16
+ 23
+340
+ 33
+132
+ 70
+0
+  0
+ENDBLK
+  5
+134
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+135
+100
+AcDbEntity
+  8
+Hall Way.WS.Left Side
+100
+AcDbBlockBegin
+  2
+Hall Way.WS.Left Side
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+136
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.WS.Left Side1
+ 10
+0
+ 20
+16
+ 30
+884
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+137
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+332
+ 20
+834.048133329
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+138
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+332
+ 20
+508.048133329
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+139
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+332
+ 20
+182.048133329
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+13A
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+65.9518666706
+ 20
+124
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+13B
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+289.951866671
+ 20
+124
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+13C
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+65.9518666706
+ 20
+876
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+13D
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+289.951866671
+ 20
+876
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+13E
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-53
+ 20
+750.080222216
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+13F
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-53
+ 20
+232.080222216
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+140
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-53
+ 20
+782.080222216
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+141
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-53
+ 20
+200.080222216
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+142
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-55.9197777844
+ 20
+492
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+143
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-286.919777784
+ 20
+492
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+144
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-55.9197777844
+ 20
+432
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+145
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-286.919777784
+ 20
+432
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+146
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-55.9197777844
+ 20
+552
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+147
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-286.919777784
+ 20
+552
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+ENDBLK
+  5
+148
+100
+AcDbEntity
+  8
+Hall Way.WS.Left Side
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+149
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.WS.Left Side1
+ 70
+     0
+ 10
+0
+ 20
+16
+ 30
+884
+  0
+3DFACE
+  5
+14A
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+0
+ 20
+16
+ 30
+884
+ 11
+0
+ 21
+340
+ 31
+884
+ 12
+0
+ 22
+340
+ 32
+116
+ 13
+0
+ 23
+16
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+14B
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+884
+ 11
+16
+ 21
+340
+ 31
+884
+ 12
+16
+ 22
+340
+ 32
+116
+ 13
+16
+ 23
+16
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+14C
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+884
+ 11
+16
+ 21
+340
+ 31
+884
+ 12
+0
+ 22
+340
+ 32
+884
+ 13
+0
+ 23
+16
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+14D
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+340
+ 30
+884
+ 11
+16
+ 21
+340
+ 31
+116
+ 12
+0
+ 22
+340
+ 32
+116
+ 13
+0
+ 23
+340
+ 33
+884
+ 70
+0
+  0
+3DFACE
+  5
+14E
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+340
+ 30
+116
+ 11
+16
+ 21
+16
+ 31
+116
+ 12
+0
+ 22
+16
+ 32
+116
+ 13
+0
+ 23
+340
+ 33
+116
+ 70
+0
+  0
+3DFACE
+  5
+14F
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+116
+ 11
+16
+ 21
+16
+ 31
+884
+ 12
+0
+ 22
+16
+ 32
+884
+ 13
+0
+ 23
+16
+ 33
+116
+ 70
+0
+  0
+ENDBLK
+  5
+150
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+151
+100
+AcDbEntity
+  8
+Hall Way.WS.Door std (Single) [1]
+100
+AcDbBlockBegin
+  2
+Hall Way.WS.Door std (Single) [1]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+152
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockReference
+  2
+Hall Way.WS.Door std (Single) [1]1
+ 10
+2
+ 20
+0
+ 30
+1146
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+153
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+32
+ 20
+743.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+154
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+32
+ 20
+238.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+155
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+32
+ 20
+788.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+156
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+32
+ 20
+193.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+157
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+14
+ 10
+22.5
+ 20
+766.098834167
+ 30
+-16
+ 40
+17.6235081147
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+158
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+14
+ 10
+22.5
+ 20
+216.098834167
+ 30
+-16
+ 40
+17.6235081147
+210
+0
+220
+-1
+230
+0
+  0
+ENDBLK
+  5
+159
+100
+AcDbEntity
+  8
+Hall Way.WS.Door std (Single) [1]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+15A
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockBegin
+  2
+Hall Way.WS.Door std (Single) [1]1
+ 70
+     0
+ 10
+2
+ 20
+0
+ 30
+1146
+  0
+3DFACE
+  5
+15B
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+2
+ 20
+0
+ 30
+1146
+ 11
+2
+ 21
+0
+ 31
+0
+ 12
+491
+ 22
+0
+ 32
+0
+ 13
+491
+ 23
+0
+ 33
+1146
+ 70
+0
+  0
+3DFACE
+  5
+15C
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+2
+ 20
+16
+ 30
+1146
+ 11
+2
+ 21
+16
+ 31
+0
+ 12
+491
+ 22
+16
+ 32
+0
+ 13
+491
+ 23
+16
+ 33
+1146
+ 70
+0
+  0
+3DFACE
+  5
+15D
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+2
+ 20
+16
+ 30
+1146
+ 11
+2
+ 21
+0
+ 31
+1146
+ 12
+2
+ 22
+0
+ 32
+0
+ 13
+2
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+15E
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+2
+ 20
+16
+ 30
+0
+ 11
+2
+ 21
+0
+ 31
+0
+ 12
+491
+ 22
+0
+ 32
+0
+ 13
+491
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+15F
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+491
+ 20
+16
+ 30
+0
+ 11
+491
+ 21
+0
+ 31
+0
+ 12
+491
+ 22
+0
+ 32
+1146
+ 13
+491
+ 23
+16
+ 33
+1146
+ 70
+0
+  0
+3DFACE
+  5
+160
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+491
+ 20
+16
+ 30
+1146
+ 11
+491
+ 21
+0
+ 31
+1146
+ 12
+2
+ 22
+0
+ 32
+1146
+ 13
+2
+ 23
+16
+ 33
+1146
+ 70
+0
+  0
+ENDBLK
+  5
+161
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+162
+100
+AcDbEntity
+  8
+Hall Way.WS.Mobile Shelf [1]
+100
+AcDbBlockBegin
+  2
+Hall Way.WS.Mobile Shelf [1]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+163
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.WS.Mobile Shelf [1]1
+ 10
+16
+ 20
+324
+ 30
+492
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+164
+100
+AcDbEntity
+  8
+Hall Way.WS.Mobile Shelf [1]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+165
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.WS.Mobile Shelf [1]1
+ 70
+     0
+ 10
+16
+ 20
+324
+ 30
+492
+  0
+3DFACE
+  5
+166
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+324
+ 30
+492
+ 11
+16
+ 21
+19
+ 31
+492
+ 12
+245
+ 22
+19
+ 32
+492
+ 13
+245
+ 23
+324
+ 33
+492
+ 70
+0
+  0
+3DFACE
+  5
+167
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+324
+ 30
+508
+ 11
+16
+ 21
+19
+ 31
+508
+ 12
+245
+ 22
+19
+ 32
+508
+ 13
+245
+ 23
+324
+ 33
+508
+ 70
+0
+  0
+3DFACE
+  5
+168
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+324
+ 30
+492
+ 11
+16
+ 21
+324
+ 31
+508
+ 12
+16
+ 22
+19
+ 32
+508
+ 13
+16
+ 23
+19
+ 33
+492
+ 70
+0
+  0
+3DFACE
+  5
+169
+100
+AcDbEntity
+  8
+edge-010
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+19
+ 30
+492
+ 11
+16
+ 21
+19
+ 31
+508
+ 12
+245
+ 22
+19
+ 32
+508
+ 13
+245
+ 23
+19
+ 33
+492
+ 70
+0
+  0
+3DFACE
+  5
+16A
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+19
+ 30
+492
+ 11
+245
+ 21
+19
+ 31
+508
+ 12
+245
+ 22
+324
+ 32
+508
+ 13
+245
+ 23
+324
+ 33
+492
+ 70
+0
+  0
+3DFACE
+  5
+16B
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+324
+ 30
+492
+ 11
+245
+ 21
+324
+ 31
+508
+ 12
+16
+ 22
+324
+ 32
+508
+ 13
+16
+ 23
+324
+ 33
+492
+ 70
+0
+  0
+ENDBLK
+  5
+16C
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+16D
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+Hall Way.BS
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+16E
+100
+AcDbEntity
+  8
+Hall Way.BS.Bottom
+100
+AcDbBlockReference
+  2
+Hall Way.BS.Bottom
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+16F
+100
+AcDbEntity
+  8
+Hall Way.BS.Back 2
+100
+AcDbBlockReference
+  2
+Hall Way.BS.Back 2
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+170
+100
+AcDbEntity
+  8
+Hall Way.BS.Side 1
+100
+AcDbBlockReference
+  2
+Hall Way.BS.Side 1
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+171
+100
+AcDbEntity
+  8
+Hall Way.BS.Back 1
+100
+AcDbBlockReference
+  2
+Hall Way.BS.Back 1
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+172
+100
+AcDbEntity
+  8
+Hall Way.BS.L Slide
+100
+AcDbBlockReference
+  2
+Hall Way.BS.L Slide
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+173
+100
+AcDbEntity
+  8
+Hall Way.BS.Side [1]
+100
+AcDbBlockReference
+  2
+Hall Way.BS.Side [1]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+174
+100
+AcDbEntity
+  8
+Hall Way.BS.Door std (Single) [1]
+100
+AcDbBlockReference
+  2
+Hall Way.BS.Door std (Single) [1]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+175
+100
+AcDbEntity
+  8
+Hall Way.BS.Mobile Shelf [1]
+100
+AcDbBlockReference
+  2
+Hall Way.BS.Mobile Shelf [1]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+176
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+177
+100
+AcDbEntity
+  8
+Hall Way.BS.Bottom
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.Bottom
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+178
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.BS.Bottom1
+ 10
+245
+ 20
+206
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+179
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+65.9518666706
+ 20
+198
+ 30
+0
+ 40
+1.56007455537
+  0
+CIRCLE
+  5
+17A
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+424.951866671
+ 20
+198
+ 30
+0
+ 40
+1.56007455537
+  0
+CIRCLE
+  5
+17B
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+65.9518666706
+ 20
+520
+ 30
+0
+ 40
+1.56007455537
+  0
+CIRCLE
+  5
+17C
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+194.951866671
+ 20
+520
+ 30
+0
+ 40
+1.56007455537
+  0
+ENDBLK
+  5
+17D
+100
+AcDbEntity
+  8
+Hall Way.BS.Bottom
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+17E
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.Bottom1
+ 70
+     0
+ 10
+245
+ 20
+206
+ 30
+0
+  0
+3DFACE
+  5
+17F
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+206
+ 30
+0
+ 11
+475
+ 21
+206
+ 31
+0
+ 12
+475
+ 22
+18
+ 32
+0
+ 13
+245
+ 23
+206
+ 33
+0
+ 70
+12
+  0
+3DFACE
+  5
+180
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+18
+ 30
+0
+ 11
+245
+ 21
+528
+ 31
+0
+ 12
+245
+ 22
+206
+ 32
+0
+ 13
+16
+ 23
+18
+ 33
+0
+ 70
+13
+  0
+3DFACE
+  5
+181
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+18
+ 30
+0
+ 11
+245
+ 21
+206
+ 31
+0
+ 12
+475
+ 22
+18
+ 32
+0
+ 13
+16
+ 23
+18
+ 33
+0
+ 70
+11
+  0
+3DFACE
+  5
+182
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+528
+ 30
+0
+ 11
+245
+ 21
+528
+ 31
+0
+ 12
+16
+ 22
+18
+ 32
+0
+ 13
+16
+ 23
+528
+ 33
+0
+ 70
+10
+  0
+3DFACE
+  5
+183
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+206
+ 30
+16
+ 11
+16
+ 21
+528
+ 31
+16
+ 12
+16
+ 22
+18
+ 32
+16
+ 13
+245
+ 23
+206
+ 33
+16
+ 70
+13
+  0
+3DFACE
+  5
+184
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+18
+ 30
+16
+ 11
+245
+ 21
+206
+ 31
+16
+ 12
+16
+ 22
+18
+ 32
+16
+ 13
+475
+ 23
+18
+ 33
+16
+ 70
+11
+  0
+3DFACE
+  5
+185
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+206
+ 30
+16
+ 11
+245
+ 21
+206
+ 31
+16
+ 12
+475
+ 22
+18
+ 32
+16
+ 13
+475
+ 23
+206
+ 33
+16
+ 70
+10
+  0
+3DFACE
+  5
+186
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+528
+ 30
+16
+ 11
+16
+ 21
+528
+ 31
+16
+ 12
+245
+ 22
+206
+ 32
+16
+ 13
+245
+ 23
+528
+ 33
+16
+ 70
+10
+  0
+3DFACE
+  5
+187
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+18
+ 30
+16
+ 11
+16
+ 21
+18
+ 31
+16
+ 12
+16
+ 22
+18
+ 32
+0
+ 13
+475
+ 23
+18
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+188
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+18
+ 30
+16
+ 11
+16
+ 21
+528
+ 31
+16
+ 12
+16
+ 22
+528
+ 32
+0
+ 13
+16
+ 23
+18
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+189
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+528
+ 30
+16
+ 11
+245
+ 21
+528
+ 31
+16
+ 12
+245
+ 22
+528
+ 32
+0
+ 13
+16
+ 23
+528
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+18A
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+528
+ 30
+16
+ 11
+245
+ 21
+206
+ 31
+16
+ 12
+245
+ 22
+206
+ 32
+0
+ 13
+245
+ 23
+528
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+18B
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+206
+ 30
+16
+ 11
+475
+ 21
+206
+ 31
+16
+ 12
+475
+ 22
+206
+ 32
+0
+ 13
+245
+ 23
+206
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+18C
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+206
+ 30
+16
+ 11
+475
+ 21
+18
+ 31
+16
+ 12
+475
+ 22
+18
+ 32
+0
+ 13
+475
+ 23
+206
+ 33
+0
+ 70
+0
+  0
+ENDBLK
+  5
+18D
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+18E
+100
+AcDbEntity
+  8
+Hall Way.BS.Back 2
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.Back 2
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+18F
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.BS.Back 3
+ 10
+475
+ 20
+206
+ 30
+16
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+190
+100
+AcDbEntity
+  8
+Hall Way.BS.Back 2
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+191
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.Back 3
+ 70
+     0
+ 10
+475
+ 20
+206
+ 30
+16
+  0
+3DFACE
+  5
+192
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+206
+ 30
+16
+ 11
+261
+ 21
+206
+ 31
+16
+ 12
+261
+ 22
+206
+ 32
+720
+ 13
+475
+ 23
+206
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+193
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+190
+ 30
+16
+ 11
+261
+ 21
+190
+ 31
+16
+ 12
+261
+ 22
+190
+ 32
+720
+ 13
+475
+ 23
+190
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+194
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+190
+ 30
+16
+ 11
+261
+ 21
+190
+ 31
+16
+ 12
+261
+ 22
+206
+ 32
+16
+ 13
+475
+ 23
+206
+ 33
+16
+ 70
+0
+  0
+3DFACE
+  5
+195
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+261
+ 20
+190
+ 30
+16
+ 11
+261
+ 21
+206
+ 31
+16
+ 12
+261
+ 22
+206
+ 32
+720
+ 13
+261
+ 23
+190
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+196
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+261
+ 20
+190
+ 30
+720
+ 11
+475
+ 21
+190
+ 31
+720
+ 12
+475
+ 22
+206
+ 32
+720
+ 13
+261
+ 23
+206
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+197
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+190
+ 30
+720
+ 11
+475
+ 21
+190
+ 31
+16
+ 12
+475
+ 22
+206
+ 32
+16
+ 13
+475
+ 23
+206
+ 33
+720
+ 70
+0
+  0
+ENDBLK
+  5
+198
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+199
+100
+AcDbEntity
+  8
+Hall Way.BS.Side 1
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.Side 1
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+19A
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.BS.Side 2
+ 10
+261
+ 20
+528
+ 30
+720
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+19B
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+198
+ 20
+670.048133329
+ 30
+245
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+19C
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+198
+ 20
+368.048133329
+ 30
+245
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+19D
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+198
+ 20
+66.0481333294
+ 30
+245
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+19E
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-520
+ 20
+670.048133329
+ 30
+-261
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+19F
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-520
+ 20
+368.048133329
+ 30
+-261
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1A0
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-520
+ 20
+66.0481333294
+ 30
+-261
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1A1
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-239.951866671
+ 20
+8
+ 30
+-261
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1A2
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-477.951866671
+ 20
+8
+ 30
+-261
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1A3
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+226.919777784
+ 20
+360
+ 30
+245
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1A4
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+474.919777784
+ 20
+360
+ 30
+245
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1A5
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+226.919777784
+ 20
+300
+ 30
+245
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1A6
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+474.919777784
+ 20
+300
+ 30
+245
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1A7
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+226.919777784
+ 20
+420
+ 30
+245
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1A8
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+474.919777784
+ 20
+420
+ 30
+245
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+ENDBLK
+  5
+1A9
+100
+AcDbEntity
+  8
+Hall Way.BS.Side 1
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1AA
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.Side 2
+ 70
+     0
+ 10
+261
+ 20
+528
+ 30
+720
+  0
+3DFACE
+  5
+1AB
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+261
+ 20
+528
+ 30
+720
+ 11
+261
+ 21
+190
+ 31
+720
+ 12
+261
+ 22
+190
+ 32
+0
+ 13
+261
+ 23
+528
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+1AC
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+528
+ 30
+720
+ 11
+245
+ 21
+190
+ 31
+720
+ 12
+245
+ 22
+190
+ 32
+0
+ 13
+245
+ 23
+528
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+1AD
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+528
+ 30
+720
+ 11
+245
+ 21
+190
+ 31
+720
+ 12
+261
+ 22
+190
+ 32
+720
+ 13
+261
+ 23
+528
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+1AE
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+190
+ 30
+720
+ 11
+261
+ 21
+190
+ 31
+720
+ 12
+261
+ 22
+190
+ 32
+0
+ 13
+245
+ 23
+190
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+1AF
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+190
+ 30
+0
+ 11
+245
+ 21
+528
+ 31
+0
+ 12
+261
+ 22
+528
+ 32
+0
+ 13
+261
+ 23
+190
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+1B0
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+528
+ 30
+0
+ 11
+245
+ 21
+528
+ 31
+720
+ 12
+261
+ 22
+528
+ 32
+720
+ 13
+261
+ 23
+528
+ 33
+0
+ 70
+0
+  0
+ENDBLK
+  5
+1B1
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1B2
+100
+AcDbEntity
+  8
+Hall Way.BS.Back 1
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.Back 1
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+1B3
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.BS.Back 4
+ 10
+16
+ 20
+528
+ 30
+720
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+1B4
+100
+AcDbEntity
+  8
+Hall Way.BS.Back 1
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1B5
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.Back 4
+ 70
+     0
+ 10
+16
+ 20
+528
+ 30
+720
+  0
+3DFACE
+  5
+1B6
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+528
+ 30
+720
+ 11
+245
+ 21
+528
+ 31
+720
+ 12
+245
+ 22
+528
+ 32
+16
+ 13
+16
+ 23
+528
+ 33
+16
+ 70
+0
+  0
+3DFACE
+  5
+1B7
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+512
+ 30
+720
+ 11
+245
+ 21
+512
+ 31
+720
+ 12
+245
+ 22
+512
+ 32
+16
+ 13
+16
+ 23
+512
+ 33
+16
+ 70
+0
+  0
+3DFACE
+  5
+1B8
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+512
+ 30
+720
+ 11
+245
+ 21
+512
+ 31
+720
+ 12
+245
+ 22
+528
+ 32
+720
+ 13
+16
+ 23
+528
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+1B9
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+512
+ 30
+720
+ 11
+245
+ 21
+512
+ 31
+16
+ 12
+245
+ 22
+528
+ 32
+16
+ 13
+245
+ 23
+528
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+1BA
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+512
+ 30
+16
+ 11
+16
+ 21
+512
+ 31
+16
+ 12
+16
+ 22
+528
+ 32
+16
+ 13
+245
+ 23
+528
+ 33
+16
+ 70
+0
+  0
+3DFACE
+  5
+1BB
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+512
+ 30
+16
+ 11
+16
+ 21
+512
+ 31
+720
+ 12
+16
+ 22
+528
+ 32
+720
+ 13
+16
+ 23
+528
+ 33
+16
+ 70
+0
+  0
+ENDBLK
+  5
+1BC
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1BD
+100
+AcDbEntity
+  8
+Hall Way.BS.L Slide
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.L Slide
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+1BE
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.BS.L Slide1
+ 10
+0
+ 20
+18
+ 30
+720
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+1BF
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+520
+ 20
+670.048133329
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1C0
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+520
+ 20
+368.048133329
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1C1
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+520
+ 20
+66.0481333294
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1C2
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+67.9518666706
+ 20
+8
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1C3
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+272.951866671
+ 20
+8
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1C4
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+477.951866671
+ 20
+8
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1C5
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-55
+ 20
+601.080222216
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1C6
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-55
+ 20
+84.0802222156
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1C7
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-55
+ 20
+633.080222216
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1C8
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-55
+ 20
+116.080222216
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1C9
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-54.9197777844
+ 20
+360
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1CA
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-474.919777784
+ 20
+360
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1CB
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-54.9197777844
+ 20
+300
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1CC
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-474.919777784
+ 20
+300
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1CD
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-54.9197777844
+ 20
+420
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1CE
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-474.919777784
+ 20
+420
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+ENDBLK
+  5
+1CF
+100
+AcDbEntity
+  8
+Hall Way.BS.L Slide
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1D0
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.L Slide1
+ 70
+     0
+ 10
+0
+ 20
+18
+ 30
+720
+  0
+3DFACE
+  5
+1D1
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+0
+ 20
+18
+ 30
+720
+ 11
+0
+ 21
+528
+ 31
+720
+ 12
+0
+ 22
+528
+ 32
+0
+ 13
+0
+ 23
+18
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+1D2
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+18
+ 30
+720
+ 11
+16
+ 21
+528
+ 31
+720
+ 12
+16
+ 22
+528
+ 32
+0
+ 13
+16
+ 23
+18
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+1D3
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+18
+ 30
+720
+ 11
+16
+ 21
+528
+ 31
+720
+ 12
+0
+ 22
+528
+ 32
+720
+ 13
+0
+ 23
+18
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+1D4
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+528
+ 30
+720
+ 11
+16
+ 21
+528
+ 31
+0
+ 12
+0
+ 22
+528
+ 32
+0
+ 13
+0
+ 23
+528
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+1D5
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+528
+ 30
+0
+ 11
+16
+ 21
+18
+ 31
+0
+ 12
+0
+ 22
+18
+ 32
+0
+ 13
+0
+ 23
+528
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+1D6
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+18
+ 30
+0
+ 11
+16
+ 21
+18
+ 31
+720
+ 12
+0
+ 22
+18
+ 32
+720
+ 13
+0
+ 23
+18
+ 33
+0
+ 70
+0
+  0
+ENDBLK
+  5
+1D7
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1D8
+100
+AcDbEntity
+  8
+Hall Way.BS.Side [1]
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.Side [1]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+1D9
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.BS.Side [1]1
+ 10
+491
+ 20
+18
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+1DA
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-198
+ 20
+670.048133329
+ 30
+-491
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1DB
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-198
+ 20
+368.048133329
+ 30
+-491
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1DC
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-198
+ 20
+66.0481333294
+ 30
+-491
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1DD
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-67.9518666706
+ 20
+8
+ 30
+-491
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1DE
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-155.951866671
+ 20
+8
+ 30
+-491
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1DF
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+54.9197777844
+ 20
+360
+ 30
+475
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1E0
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+152.919777784
+ 20
+360
+ 30
+475
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1E1
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+54.9197777844
+ 20
+300
+ 30
+475
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1E2
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+152.919777784
+ 20
+300
+ 30
+475
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1E3
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+54.9197777844
+ 20
+420
+ 30
+475
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+1E4
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+152.919777784
+ 20
+420
+ 30
+475
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+ENDBLK
+  5
+1E5
+100
+AcDbEntity
+  8
+Hall Way.BS.Side [1]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1E6
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.Side [1]1
+ 70
+     0
+ 10
+491
+ 20
+18
+ 30
+0
+  0
+3DFACE
+  5
+1E7
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+491
+ 20
+18
+ 30
+0
+ 11
+491
+ 21
+206
+ 31
+0
+ 12
+491
+ 22
+206
+ 32
+720
+ 13
+491
+ 23
+18
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+1E8
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+18
+ 30
+0
+ 11
+475
+ 21
+206
+ 31
+0
+ 12
+475
+ 22
+206
+ 32
+720
+ 13
+475
+ 23
+18
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+1E9
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+18
+ 30
+0
+ 11
+475
+ 21
+206
+ 31
+0
+ 12
+491
+ 22
+206
+ 32
+0
+ 13
+491
+ 23
+18
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+1EA
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+206
+ 30
+0
+ 11
+475
+ 21
+206
+ 31
+720
+ 12
+491
+ 22
+206
+ 32
+720
+ 13
+491
+ 23
+206
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+1EB
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+206
+ 30
+720
+ 11
+475
+ 21
+18
+ 31
+720
+ 12
+491
+ 22
+18
+ 32
+720
+ 13
+491
+ 23
+206
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+1EC
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+18
+ 30
+720
+ 11
+475
+ 21
+18
+ 31
+0
+ 12
+491
+ 22
+18
+ 32
+0
+ 13
+491
+ 23
+18
+ 33
+720
+ 70
+0
+  0
+ENDBLK
+  5
+1ED
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1EE
+100
+AcDbEntity
+  8
+Hall Way.BS.Door std (Single) [1]
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.Door std (Single) [1]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+1EF
+100
+AcDbEntity
+  8
+Laminat 18mm
+100
+AcDbBlockReference
+  2
+Hall Way.BS.Door std (Single) [1]1
+ 10
+489
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+1F0
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+32
+ 20
+594.5
+ 30
+-18
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+1F1
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+32
+ 20
+77.5
+ 30
+-18
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+1F2
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+32
+ 20
+639.5
+ 30
+-18
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+1F3
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+32
+ 20
+122.5
+ 30
+-18
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+1F4
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+14
+ 10
+22.5
+ 20
+617.098834167
+ 30
+-18
+ 40
+17.6235081147
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+1F5
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+14
+ 10
+22.5
+ 20
+100.098834167
+ 30
+-18
+ 40
+17.6235081147
+210
+0
+220
+-1
+230
+0
+  0
+ENDBLK
+  5
+1F6
+100
+AcDbEntity
+  8
+Hall Way.BS.Door std (Single) [1]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1F7
+100
+AcDbEntity
+  8
+Laminat 18mm
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.Door std (Single) [1]1
+ 70
+     0
+ 10
+489
+ 20
+0
+ 30
+0
+  0
+3DFACE
+  5
+1F8
+100
+AcDbEntity
+  8
+Laminat 18mm
+ 62
+0
+100
+AcDbFace
+ 10
+489
+ 20
+0
+ 30
+0
+ 11
+489
+ 21
+0
+ 31
+717
+ 12
+2
+ 22
+0
+ 32
+717
+ 13
+2
+ 23
+0
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+1F9
+100
+AcDbEntity
+  8
+Laminat 18mm
+ 62
+0
+100
+AcDbFace
+ 10
+489
+ 20
+18
+ 30
+0
+ 11
+489
+ 21
+18
+ 31
+717
+ 12
+2
+ 22
+18
+ 32
+717
+ 13
+2
+ 23
+18
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+1FA
+100
+AcDbEntity
+  8
+Laminat 18mm
+ 62
+0
+100
+AcDbFace
+ 10
+489
+ 20
+18
+ 30
+0
+ 11
+489
+ 21
+0
+ 31
+0
+ 12
+489
+ 22
+0
+ 32
+717
+ 13
+489
+ 23
+18
+ 33
+717
+ 70
+0
+  0
+3DFACE
+  5
+1FB
+100
+AcDbEntity
+  8
+Laminat 18mm
+ 62
+0
+100
+AcDbFace
+ 10
+489
+ 20
+18
+ 30
+717
+ 11
+489
+ 21
+0
+ 31
+717
+ 12
+2
+ 22
+0
+ 32
+717
+ 13
+2
+ 23
+18
+ 33
+717
+ 70
+0
+  0
+3DFACE
+  5
+1FC
+100
+AcDbEntity
+  8
+Laminat 18mm
+ 62
+0
+100
+AcDbFace
+ 10
+2
+ 20
+18
+ 30
+717
+ 11
+2
+ 21
+0
+ 31
+717
+ 12
+2
+ 22
+0
+ 32
+0
+ 13
+2
+ 23
+18
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+1FD
+100
+AcDbEntity
+  8
+Laminat 18mm
+ 62
+0
+100
+AcDbFace
+ 10
+2
+ 20
+18
+ 30
+0
+ 11
+2
+ 21
+0
+ 31
+0
+ 12
+489
+ 22
+0
+ 32
+0
+ 13
+489
+ 23
+18
+ 33
+0
+ 70
+0
+  0
+ENDBLK
+  5
+1FE
+100
+AcDbEntity
+  8
+Laminat 18mm
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1FF
+100
+AcDbEntity
+  8
+Hall Way.BS.Mobile Shelf [1]
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.Mobile Shelf [1]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+200
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.BS.Mobile Shelf [1]1
+ 10
+245
+ 20
+190
+ 30
+360
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+201
+100
+AcDbEntity
+  8
+Hall Way.BS.Mobile Shelf [1]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+202
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.BS.Mobile Shelf [1]1
+ 70
+     0
+ 10
+245
+ 20
+190
+ 30
+360
+  0
+3DFACE
+  5
+203
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+190
+ 30
+360
+ 11
+475
+ 21
+190
+ 31
+360
+ 12
+475
+ 22
+18
+ 32
+360
+ 13
+245
+ 23
+190
+ 33
+360
+ 70
+12
+  0
+3DFACE
+  5
+204
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+18
+ 30
+360
+ 11
+245
+ 21
+512
+ 31
+360
+ 12
+245
+ 22
+190
+ 32
+360
+ 13
+16
+ 23
+18
+ 33
+360
+ 70
+13
+  0
+3DFACE
+  5
+205
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+18
+ 30
+360
+ 11
+245
+ 21
+190
+ 31
+360
+ 12
+475
+ 22
+18
+ 32
+360
+ 13
+16
+ 23
+18
+ 33
+360
+ 70
+11
+  0
+3DFACE
+  5
+206
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+512
+ 30
+360
+ 11
+245
+ 21
+512
+ 31
+360
+ 12
+16
+ 22
+18
+ 32
+360
+ 13
+16
+ 23
+512
+ 33
+360
+ 70
+10
+  0
+3DFACE
+  5
+207
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+190
+ 30
+376
+ 11
+16
+ 21
+512
+ 31
+376
+ 12
+16
+ 22
+18
+ 32
+376
+ 13
+245
+ 23
+190
+ 33
+376
+ 70
+13
+  0
+3DFACE
+  5
+208
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+18
+ 30
+376
+ 11
+245
+ 21
+190
+ 31
+376
+ 12
+16
+ 22
+18
+ 32
+376
+ 13
+475
+ 23
+18
+ 33
+376
+ 70
+11
+  0
+3DFACE
+  5
+209
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+190
+ 30
+376
+ 11
+245
+ 21
+190
+ 31
+376
+ 12
+475
+ 22
+18
+ 32
+376
+ 13
+475
+ 23
+190
+ 33
+376
+ 70
+10
+  0
+3DFACE
+  5
+20A
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+512
+ 30
+376
+ 11
+16
+ 21
+512
+ 31
+376
+ 12
+245
+ 22
+190
+ 32
+376
+ 13
+245
+ 23
+512
+ 33
+376
+ 70
+10
+  0
+3DFACE
+  5
+20B
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+18
+ 30
+360
+ 11
+475
+ 21
+18
+ 31
+376
+ 12
+475
+ 22
+190
+ 32
+376
+ 13
+475
+ 23
+190
+ 33
+360
+ 70
+0
+  0
+3DFACE
+  5
+20C
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+475
+ 20
+190
+ 30
+360
+ 11
+475
+ 21
+190
+ 31
+376
+ 12
+245
+ 22
+190
+ 32
+376
+ 13
+245
+ 23
+190
+ 33
+360
+ 70
+0
+  0
+3DFACE
+  5
+20D
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+190
+ 30
+360
+ 11
+245
+ 21
+190
+ 31
+376
+ 12
+245
+ 22
+512
+ 32
+376
+ 13
+245
+ 23
+512
+ 33
+360
+ 70
+0
+  0
+3DFACE
+  5
+20E
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+245
+ 20
+512
+ 30
+360
+ 11
+245
+ 21
+512
+ 31
+376
+ 12
+16
+ 22
+512
+ 32
+376
+ 13
+16
+ 23
+512
+ 33
+360
+ 70
+0
+  0
+3DFACE
+  5
+20F
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+512
+ 30
+360
+ 11
+16
+ 21
+512
+ 31
+376
+ 12
+16
+ 22
+18
+ 32
+376
+ 13
+16
+ 23
+18
+ 33
+360
+ 70
+0
+  0
+3DFACE
+  5
+210
+100
+AcDbEntity
+  8
+edge-010
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+18
+ 30
+360
+ 11
+16
+ 21
+18
+ 31
+376
+ 12
+475
+ 22
+18
+ 32
+376
+ 13
+475
+ 23
+18
+ 33
+360
+ 70
+0
+  0
+ENDBLK
+  5
+211
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+212
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+Hall Way.BL
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+213
+100
+AcDbEntity
+  8
+Hall Way.BL.Bottom
+100
+AcDbBlockReference
+  2
+Hall Way.BL.Bottom
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+214
+100
+AcDbEntity
+  8
+Hall Way.BL.Right Side
+100
+AcDbBlockReference
+  2
+Hall Way.BL.Right Side
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+215
+100
+AcDbEntity
+  8
+Hall Way.BL.Back
+100
+AcDbBlockReference
+  2
+Hall Way.BL.Back
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+216
+100
+AcDbEntity
+  8
+Hall Way.BL.Left Side
+100
+AcDbBlockReference
+  2
+Hall Way.BL.Left Side
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+217
+100
+AcDbEntity
+  8
+Hall Way.BL.Door std (Double) [1]
+100
+AcDbBlockReference
+  2
+Hall Way.BL.Door std (Double) [1]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+218
+100
+AcDbEntity
+  8
+Hall Way.BL.Mobile Shelf [1]
+100
+AcDbBlockReference
+  2
+Hall Way.BL.Mobile Shelf [1]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+219
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+21A
+100
+AcDbEntity
+  8
+Hall Way.BL.Bottom
+100
+AcDbBlockBegin
+  2
+Hall Way.BL.Bottom
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+21B
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.BL.Bottom1
+ 10
+16
+ 20
+16
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+21C
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+65.9518666706
+ 20
+520
+ 30
+0
+ 40
+1.56007455537
+  0
+CIRCLE
+  5
+21D
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+349.285200004
+ 20
+520
+ 30
+0
+ 40
+1.56007455537
+  0
+CIRCLE
+  5
+21E
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+632.618533337
+ 20
+520
+ 30
+0
+ 40
+1.56007455537
+  0
+CIRCLE
+  5
+21F
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+915.951866671
+ 20
+520
+ 30
+0
+ 40
+1.56007455537
+  0
+ENDBLK
+  5
+220
+100
+AcDbEntity
+  8
+Hall Way.BL.Bottom
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+221
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.BL.Bottom1
+ 70
+     0
+ 10
+16
+ 20
+16
+ 30
+0
+  0
+3DFACE
+  5
+222
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+0
+ 11
+16
+ 21
+528
+ 31
+0
+ 12
+966
+ 22
+528
+ 32
+0
+ 13
+966
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+223
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+16
+ 11
+16
+ 21
+528
+ 31
+16
+ 12
+966
+ 22
+528
+ 32
+16
+ 13
+966
+ 23
+16
+ 33
+16
+ 70
+0
+  0
+3DFACE
+  5
+224
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+16
+ 11
+16
+ 21
+528
+ 31
+16
+ 12
+16
+ 22
+528
+ 32
+0
+ 13
+16
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+225
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+528
+ 30
+16
+ 11
+966
+ 21
+528
+ 31
+16
+ 12
+966
+ 22
+528
+ 32
+0
+ 13
+16
+ 23
+528
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+226
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+528
+ 30
+16
+ 11
+966
+ 21
+16
+ 31
+16
+ 12
+966
+ 22
+16
+ 32
+0
+ 13
+966
+ 23
+528
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+227
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+16
+ 30
+16
+ 11
+16
+ 21
+16
+ 31
+16
+ 12
+16
+ 22
+16
+ 32
+0
+ 13
+966
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+ENDBLK
+  5
+228
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+229
+100
+AcDbEntity
+  8
+Hall Way.BL.Right Side
+100
+AcDbBlockBegin
+  2
+Hall Way.BL.Right Side
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+22A
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.BL.Right Side1
+ 10
+982
+ 20
+16
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+22B
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-520
+ 20
+670.048133329
+ 30
+-982
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+22C
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-520
+ 20
+368.048133329
+ 30
+-982
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+22D
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-520
+ 20
+66.0481333294
+ 30
+-982
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+22E
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-65.9518666706
+ 20
+8
+ 30
+-982
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+22F
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-271.951866671
+ 20
+8
+ 30
+-982
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+230
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+-477.951866671
+ 20
+8
+ 30
+-982
+ 40
+1.56007455537
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+231
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+53
+ 20
+601.080222216
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+232
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+53
+ 20
+116.080222216
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+233
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+53
+ 20
+633.080222216
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+234
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+53
+ 20
+84.0802222156
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+235
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+55.9197777844
+ 20
+360
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+236
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+474.919777784
+ 20
+360
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+237
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+55.9197777844
+ 20
+300
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+238
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+474.919777784
+ 20
+300
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+239
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+55.9197777844
+ 20
+420
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+23A
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+474.919777784
+ 20
+420
+ 30
+966
+ 40
+2.60012425894
+210
+1
+220
+0
+230
+0
+  0
+ENDBLK
+  5
+23B
+100
+AcDbEntity
+  8
+Hall Way.BL.Right Side
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+23C
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.BL.Right Side1
+ 70
+     0
+ 10
+982
+ 20
+16
+ 30
+0
+  0
+3DFACE
+  5
+23D
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+982
+ 20
+16
+ 30
+0
+ 11
+982
+ 21
+528
+ 31
+0
+ 12
+982
+ 22
+528
+ 32
+720
+ 13
+982
+ 23
+16
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+23E
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+16
+ 30
+0
+ 11
+966
+ 21
+528
+ 31
+0
+ 12
+966
+ 22
+528
+ 32
+720
+ 13
+966
+ 23
+16
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+23F
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+16
+ 30
+0
+ 11
+966
+ 21
+528
+ 31
+0
+ 12
+982
+ 22
+528
+ 32
+0
+ 13
+982
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+240
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+528
+ 30
+0
+ 11
+966
+ 21
+528
+ 31
+720
+ 12
+982
+ 22
+528
+ 32
+720
+ 13
+982
+ 23
+528
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+241
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+528
+ 30
+720
+ 11
+966
+ 21
+16
+ 31
+720
+ 12
+982
+ 22
+16
+ 32
+720
+ 13
+982
+ 23
+528
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+242
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+16
+ 30
+720
+ 11
+966
+ 21
+16
+ 31
+0
+ 12
+982
+ 22
+16
+ 32
+0
+ 13
+982
+ 23
+16
+ 33
+720
+ 70
+0
+  0
+ENDBLK
+  5
+243
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+244
+100
+AcDbEntity
+  8
+Hall Way.BL.Back
+100
+AcDbBlockBegin
+  2
+Hall Way.BL.Back
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+245
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.BL.Back1
+ 10
+16
+ 20
+528
+ 30
+720
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+246
+100
+AcDbEntity
+  8
+Hall Way.BL.Back
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+247
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.BL.Back1
+ 70
+     0
+ 10
+16
+ 20
+528
+ 30
+720
+  0
+3DFACE
+  5
+248
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+528
+ 30
+720
+ 11
+966
+ 21
+528
+ 31
+720
+ 12
+966
+ 22
+528
+ 32
+16
+ 13
+16
+ 23
+528
+ 33
+16
+ 70
+0
+  0
+3DFACE
+  5
+249
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+512
+ 30
+720
+ 11
+966
+ 21
+512
+ 31
+720
+ 12
+966
+ 22
+512
+ 32
+16
+ 13
+16
+ 23
+512
+ 33
+16
+ 70
+0
+  0
+3DFACE
+  5
+24A
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+512
+ 30
+720
+ 11
+966
+ 21
+512
+ 31
+720
+ 12
+966
+ 22
+528
+ 32
+720
+ 13
+16
+ 23
+528
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+24B
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+512
+ 30
+720
+ 11
+966
+ 21
+512
+ 31
+16
+ 12
+966
+ 22
+528
+ 32
+16
+ 13
+966
+ 23
+528
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+24C
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+512
+ 30
+16
+ 11
+16
+ 21
+512
+ 31
+16
+ 12
+16
+ 22
+528
+ 32
+16
+ 13
+966
+ 23
+528
+ 33
+16
+ 70
+0
+  0
+3DFACE
+  5
+24D
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+512
+ 30
+16
+ 11
+16
+ 21
+512
+ 31
+720
+ 12
+16
+ 22
+528
+ 32
+720
+ 13
+16
+ 23
+528
+ 33
+16
+ 70
+0
+  0
+ENDBLK
+  5
+24E
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+24F
+100
+AcDbEntity
+  8
+Hall Way.BL.Left Side
+100
+AcDbBlockBegin
+  2
+Hall Way.BL.Left Side
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+250
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.BL.Left Side1
+ 10
+0
+ 20
+16
+ 30
+720
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+251
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+520
+ 20
+670.048133329
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+252
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+520
+ 20
+368.048133329
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+253
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+520
+ 20
+66.0481333294
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+254
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+65.9518666706
+ 20
+8
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+255
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+271.951866671
+ 20
+8
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+256
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+16
+ 10
+477.951866671
+ 20
+8
+ 30
+0
+ 40
+1.56007455537
+210
+1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+257
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-53
+ 20
+601.080222216
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+258
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-53
+ 20
+116.080222216
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+259
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-53
+ 20
+633.080222216
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+25A
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-53
+ 20
+84.0802222156
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+25B
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-55.9197777844
+ 20
+360
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+25C
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-474.919777784
+ 20
+360
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+25D
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-55.9197777844
+ 20
+300
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+25E
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-474.919777784
+ 20
+300
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+25F
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-55.9197777844
+ 20
+420
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+CIRCLE
+  5
+260
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+15
+ 10
+-474.919777784
+ 20
+420
+ 30
+-16
+ 40
+2.60012425894
+210
+-1
+220
+0
+230
+0
+  0
+ENDBLK
+  5
+261
+100
+AcDbEntity
+  8
+Hall Way.BL.Left Side
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+262
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.BL.Left Side1
+ 70
+     0
+ 10
+0
+ 20
+16
+ 30
+720
+  0
+3DFACE
+  5
+263
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+0
+ 20
+16
+ 30
+720
+ 11
+0
+ 21
+528
+ 31
+720
+ 12
+0
+ 22
+528
+ 32
+0
+ 13
+0
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+264
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+720
+ 11
+16
+ 21
+528
+ 31
+720
+ 12
+16
+ 22
+528
+ 32
+0
+ 13
+16
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+265
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+720
+ 11
+16
+ 21
+528
+ 31
+720
+ 12
+0
+ 22
+528
+ 32
+720
+ 13
+0
+ 23
+16
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+266
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+528
+ 30
+720
+ 11
+16
+ 21
+528
+ 31
+0
+ 12
+0
+ 22
+528
+ 32
+0
+ 13
+0
+ 23
+528
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+267
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+528
+ 30
+0
+ 11
+16
+ 21
+16
+ 31
+0
+ 12
+0
+ 22
+16
+ 32
+0
+ 13
+0
+ 23
+528
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+268
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+16
+ 30
+0
+ 11
+16
+ 21
+16
+ 31
+720
+ 12
+0
+ 22
+16
+ 32
+720
+ 13
+0
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+ENDBLK
+  5
+269
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+26A
+100
+AcDbEntity
+  8
+Hall Way.BL.Door std (Double) [1]
+100
+AcDbBlockBegin
+  2
+Hall Way.BL.Door std (Double) [1]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+26B
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockReference
+  2
+Hall Way.BL.Door std (Double) [1] (1)
+ 10
+2
+ 20
+0
+ 30
+717
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+26C
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockReference
+  2
+Hall Way.BL.Door std (Double) [1] (2)
+ 10
+492
+ 20
+0
+ 30
+717
+210
+0
+220
+0
+230
+1
+  0
+CIRCLE
+  5
+26D
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+33
+ 20
+594.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+26E
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+33
+ 20
+122.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+26F
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+33
+ 20
+639.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+270
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+33
+ 20
+77.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+271
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+14
+ 10
+23.5
+ 20
+617.098834167
+ 30
+-16
+ 40
+17.6235081147
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+272
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+14
+ 10
+23.5
+ 20
+100.098834167
+ 30
+-16
+ 40
+17.6235081147
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+273
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+949
+ 20
+594.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+274
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+949
+ 20
+122.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+275
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+949
+ 20
+639.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+276
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+13
+ 10
+949
+ 20
+77.5
+ 30
+-16
+ 40
+4.10292444848
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+277
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+14
+ 10
+958.5
+ 20
+617.098834167
+ 30
+-16
+ 40
+17.6235081147
+210
+0
+220
+-1
+230
+0
+  0
+CIRCLE
+  5
+278
+100
+AcDbEntity
+  8
+Drilling
+100
+AcDbCircle
+ 39
+14
+ 10
+958.5
+ 20
+100.098834167
+ 30
+-16
+ 40
+17.6235081147
+210
+0
+220
+-1
+230
+0
+  0
+ENDBLK
+  5
+279
+100
+AcDbEntity
+  8
+Hall Way.BL.Door std (Double) [1]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+27A
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockBegin
+  2
+Hall Way.BL.Door std (Double) [1] (1)
+ 70
+     0
+ 10
+2
+ 20
+0
+ 30
+717
+  0
+3DFACE
+  5
+27B
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+2
+ 20
+0
+ 30
+717
+ 11
+490
+ 21
+0
+ 31
+717
+ 12
+490
+ 22
+0
+ 32
+0
+ 13
+2
+ 23
+0
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+27C
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+2
+ 20
+16
+ 30
+717
+ 11
+2
+ 21
+16
+ 31
+0
+ 12
+490
+ 22
+16
+ 32
+0
+ 13
+490
+ 23
+16
+ 33
+717
+ 70
+0
+  0
+3DFACE
+  5
+27D
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+490
+ 20
+0
+ 30
+717
+ 11
+2
+ 21
+0
+ 31
+717
+ 12
+2
+ 22
+16
+ 32
+717
+ 13
+490
+ 23
+16
+ 33
+717
+ 70
+0
+  0
+3DFACE
+  5
+27E
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+490
+ 20
+0
+ 30
+0
+ 11
+490
+ 21
+16
+ 31
+0
+ 12
+490
+ 22
+16
+ 32
+717
+ 13
+490
+ 23
+0
+ 33
+717
+ 70
+0
+  0
+3DFACE
+  5
+27F
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+2
+ 20
+16
+ 30
+0
+ 11
+2
+ 21
+0
+ 31
+0
+ 12
+490
+ 22
+0
+ 32
+0
+ 13
+490
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+280
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+2
+ 20
+16
+ 30
+717
+ 11
+2
+ 21
+0
+ 31
+717
+ 12
+2
+ 22
+0
+ 32
+0
+ 13
+2
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+ENDBLK
+  5
+281
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+282
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockBegin
+  2
+Hall Way.BL.Door std (Double) [1] (2)
+ 70
+     0
+ 10
+492
+ 20
+0
+ 30
+717
+  0
+3DFACE
+  5
+283
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+492
+ 20
+0
+ 30
+717
+ 11
+980
+ 21
+0
+ 31
+717
+ 12
+980
+ 22
+0
+ 32
+0
+ 13
+492
+ 23
+0
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+284
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+492
+ 20
+16
+ 30
+0
+ 11
+980
+ 21
+16
+ 31
+0
+ 12
+980
+ 22
+16
+ 32
+717
+ 13
+492
+ 23
+16
+ 33
+717
+ 70
+0
+  0
+3DFACE
+  5
+285
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+980
+ 20
+16
+ 30
+717
+ 11
+980
+ 21
+0
+ 31
+717
+ 12
+492
+ 22
+0
+ 32
+717
+ 13
+492
+ 23
+16
+ 33
+717
+ 70
+0
+  0
+3DFACE
+  5
+286
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+980
+ 20
+16
+ 30
+0
+ 11
+980
+ 21
+0
+ 31
+0
+ 12
+980
+ 22
+0
+ 32
+717
+ 13
+980
+ 23
+16
+ 33
+717
+ 70
+0
+  0
+3DFACE
+  5
+287
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+492
+ 20
+0
+ 30
+0
+ 11
+980
+ 21
+0
+ 31
+0
+ 12
+980
+ 22
+16
+ 32
+0
+ 13
+492
+ 23
+16
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+288
+100
+AcDbEntity
+  8
+Edge1mm
+ 62
+0
+100
+AcDbFace
+ 10
+492
+ 20
+0
+ 30
+717
+ 11
+492
+ 21
+16
+ 31
+717
+ 12
+492
+ 22
+16
+ 32
+0
+ 13
+492
+ 23
+0
+ 33
+0
+ 70
+0
+  0
+ENDBLK
+  5
+289
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+28A
+100
+AcDbEntity
+  8
+Hall Way.BL.Mobile Shelf [1]
+100
+AcDbBlockBegin
+  2
+Hall Way.BL.Mobile Shelf [1]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+28B
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockReference
+  2
+Hall Way.BL.Mobile Shelf [1]1
+ 10
+16
+ 20
+512
+ 30
+360
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+28C
+100
+AcDbEntity
+  8
+Hall Way.BL.Mobile Shelf [1]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+28D
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockBegin
+  2
+Hall Way.BL.Mobile Shelf [1]1
+ 70
+     0
+ 10
+16
+ 20
+512
+ 30
+360
+  0
+3DFACE
+  5
+28E
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+512
+ 30
+360
+ 11
+16
+ 21
+19
+ 31
+360
+ 12
+966
+ 22
+19
+ 32
+360
+ 13
+966
+ 23
+512
+ 33
+360
+ 70
+0
+  0
+3DFACE
+  5
+28F
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+512
+ 30
+376
+ 11
+16
+ 21
+19
+ 31
+376
+ 12
+966
+ 22
+19
+ 32
+376
+ 13
+966
+ 23
+512
+ 33
+376
+ 70
+0
+  0
+3DFACE
+  5
+290
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+512
+ 30
+360
+ 11
+16
+ 21
+512
+ 31
+376
+ 12
+16
+ 22
+19
+ 32
+376
+ 13
+16
+ 23
+19
+ 33
+360
+ 70
+0
+  0
+3DFACE
+  5
+291
+100
+AcDbEntity
+  8
+edge-010
+ 62
+0
+100
+AcDbFace
+ 10
+16
+ 20
+19
+ 30
+360
+ 11
+16
+ 21
+19
+ 31
+376
+ 12
+966
+ 22
+19
+ 32
+376
+ 13
+966
+ 23
+19
+ 33
+360
+ 70
+0
+  0
+3DFACE
+  5
+292
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+19
+ 30
+360
+ 11
+966
+ 21
+19
+ 31
+376
+ 12
+966
+ 22
+512
+ 32
+376
+ 13
+966
+ 23
+512
+ 33
+360
+ 70
+0
+  0
+3DFACE
+  5
+293
+100
+AcDbEntity
+  8
+Melamine
+ 62
+0
+100
+AcDbFace
+ 10
+966
+ 20
+512
+ 30
+360
+ 11
+966
+ 21
+512
+ 31
+376
+ 12
+16
+ 22
+512
+ 32
+376
+ 13
+16
+ 23
+512
+ 33
+360
+ 70
+0
+  0
+ENDBLK
+  5
+294
+100
+AcDbEntity
+  8
+Melamine
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+295
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+Hall Way.Cover[1]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+296
+100
+AcDbEntity
+  8
+Hall Way.Cover[1].Cover[1]
+100
+AcDbBlockReference
+  2
+Hall Way.Cover[1].Cover[1]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+297
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+298
+100
+AcDbEntity
+  8
+Hall Way.Cover[1].Cover[1]
+100
+AcDbBlockBegin
+  2
+Hall Way.Cover[1].Cover[1]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+299
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockReference
+  2
+Hall Way.Cover[1].Cover[1]1
+ 10
+-918.47688148
+ 20
+-393.930413846
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+29A
+100
+AcDbEntity
+  8
+Hall Way.Cover[1].Cover[1]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+29B
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockBegin
+  2
+Hall Way.Cover[1].Cover[1]1
+ 70
+     0
+ 10
+-918.47688148
+ 20
+-393.930413846
+ 30
+0
+  0
+3DFACE
+  5
+29C
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+-918.47688148
+ 20
+-393.930413846
+ 30
+0
+ 11
+-918.47688148
+ 21
+-733.930413846
+ 31
+0
+ 12
+-918.47688148
+ 22
+-733.930413846
+ 32
+1146
+ 13
+-918.47688148
+ 23
+-393.930413846
+ 33
+1146
+ 70
+0
+  0
+3DFACE
+  5
+29D
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+-934.47688148
+ 20
+-393.930413846
+ 30
+0
+ 11
+-934.47688148
+ 21
+-733.930413846
+ 31
+0
+ 12
+-934.47688148
+ 22
+-733.930413846
+ 32
+1146
+ 13
+-934.47688148
+ 23
+-393.930413846
+ 33
+1146
+ 70
+0
+  0
+3DFACE
+  5
+29E
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+-934.47688148
+ 20
+-393.930413846
+ 30
+0
+ 11
+-918.47688148
+ 21
+-393.930413846
+ 31
+0
+ 12
+-918.47688148
+ 22
+-733.930413846
+ 32
+0
+ 13
+-934.47688148
+ 23
+-733.930413846
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+29F
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+-934.47688148
+ 20
+-733.930413846
+ 30
+0
+ 11
+-918.47688148
+ 21
+-733.930413846
+ 31
+0
+ 12
+-918.47688148
+ 22
+-733.930413846
+ 32
+1146
+ 13
+-934.47688148
+ 23
+-733.930413846
+ 33
+1146
+ 70
+0
+  0
+3DFACE
+  5
+2A0
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+-934.47688148
+ 20
+-733.930413846
+ 30
+1146
+ 11
+-918.47688148
+ 21
+-733.930413846
+ 31
+1146
+ 12
+-918.47688148
+ 22
+-393.930413846
+ 32
+1146
+ 13
+-934.47688148
+ 23
+-393.930413846
+ 33
+1146
+ 70
+0
+  0
+3DFACE
+  5
+2A1
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+-934.47688148
+ 20
+-393.930413846
+ 30
+1146
+ 11
+-918.47688148
+ 21
+-393.930413846
+ 31
+1146
+ 12
+-918.47688148
+ 22
+-393.930413846
+ 32
+0
+ 13
+-934.47688148
+ 23
+-393.930413846
+ 33
+0
+ 70
+0
+  0
+ENDBLK
+  5
+2A2
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+2A3
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+Hall Way.Cover[2]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+2A4
+100
+AcDbEntity
+  8
+Hall Way.Cover[2].Cover[2]
+100
+AcDbBlockReference
+  2
+Hall Way.Cover[2].Cover[2]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+2A5
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+2A6
+100
+AcDbEntity
+  8
+Hall Way.Cover[2].Cover[2]
+100
+AcDbBlockBegin
+  2
+Hall Way.Cover[2].Cover[2]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+2A7
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockReference
+  2
+Hall Way.Cover[2].Cover[2]1
+ 10
+-2880.26126729
+ 20
+-3639.8
+ 30
+-140
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+2A8
+100
+AcDbEntity
+  8
+Hall Way.Cover[2].Cover[2]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+2A9
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockBegin
+  2
+Hall Way.Cover[2].Cover[2]1
+ 70
+     0
+ 10
+-2880.26126729
+ 20
+-3639.8
+ 30
+-140
+  0
+3DFACE
+  5
+2AA
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+-2880.26126729
+ 20
+-3639.8
+ 30
+-140
+ 11
+-2880.26126729
+ 21
+-3739.84906888
+ 31
+-140
+ 12
+-2880.26126729
+ 22
+-3739.84906888
+ 32
+720
+ 13
+-2880.26126729
+ 23
+-3639.8
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+2AB
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+-2896.26126729
+ 20
+-3639.8
+ 30
+-140
+ 11
+-2896.26126729
+ 21
+-3739.84906888
+ 31
+-140
+ 12
+-2896.26126729
+ 22
+-3739.84906888
+ 32
+720
+ 13
+-2896.26126729
+ 23
+-3639.8
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+2AC
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+-2896.26126729
+ 20
+-3639.8
+ 30
+-140
+ 11
+-2880.26126729
+ 21
+-3639.8
+ 31
+-140
+ 12
+-2880.26126729
+ 22
+-3739.84906888
+ 32
+-140
+ 13
+-2896.26126729
+ 23
+-3739.84906888
+ 33
+-140
+ 70
+0
+  0
+3DFACE
+  5
+2AD
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+-2896.26126729
+ 20
+-3739.84906888
+ 30
+-140
+ 11
+-2880.26126729
+ 21
+-3739.84906888
+ 31
+-140
+ 12
+-2880.26126729
+ 22
+-3739.84906888
+ 32
+720
+ 13
+-2896.26126729
+ 23
+-3739.84906888
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+2AE
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+-2896.26126729
+ 20
+-3739.84906888
+ 30
+720
+ 11
+-2880.26126729
+ 21
+-3739.84906888
+ 31
+720
+ 12
+-2880.26126729
+ 22
+-3639.8
+ 32
+720
+ 13
+-2896.26126729
+ 23
+-3639.8
+ 33
+720
+ 70
+0
+  0
+3DFACE
+  5
+2AF
+100
+AcDbEntity
+  8
+Laminate16mm
+ 62
+0
+100
+AcDbFace
+ 10
+-2896.26126729
+ 20
+-3639.8
+ 30
+720
+ 11
+-2880.26126729
+ 21
+-3639.8
+ 31
+720
+ 12
+-2880.26126729
+ 22
+-3639.8
+ 32
+-140
+ 13
+-2896.26126729
+ 23
+-3639.8
+ 33
+-140
+ 70
+0
+  0
+ENDBLK
+  5
+2B0
+100
+AcDbEntity
+  8
+Laminate16mm
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+INSERT
+  5
+2B1
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockReference
+  2
+Hall Way.WL
+ 10
+-918.47688148
+ 20
+-733.930413846
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+2B2
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockReference
+  2
+Hall Way.WL
+ 10
+63.5231185196
+ 20
+-733.930413846
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+2B3
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockReference
+  2
+Hall Way.WS
+ 10
+1045.52311852
+ 20
+-733.930413846
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+2B4
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockReference
+  2
+Hall Way.BS
+ 10
+-916.26126729
+ 20
+-3739.84906888
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+2B5
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockReference
+  2
+Hall Way.BL
+ 10
+-1898.26126729
+ 20
+-3739.84906888
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+2B6
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockReference
+  2
+Hall Way.BL
+ 10
+-2880.26126729
+ 20
+-3739.84906888
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+2B7
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockReference
+  2
+Hall Way.Cover[1]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+2B8
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockReference
+  2
+Hall Way.Cover[2]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+2B9
+100
+AcDbDictionary
+  3
+ACAD_GROUP
+350
+2BA
+  3
+ACAD_MLINESTYLE
+350
+2BB
+  0
+DICTIONARY
+  5
+2BA
+100
+AcDbDictionary
+  0
+DICTIONARY
+  5
+2BB
+100
+AcDbDictionary
+  0
+ENDSEC
+  0
+EOF
